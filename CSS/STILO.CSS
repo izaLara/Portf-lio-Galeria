@@ -1,0 +1,46 @@
+#menu p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#selecionar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    padding: 10px;
+    gap: 20px;
+  }
+
+
+#menu{display: flex;
+     flex-direction: row;
+    justify-content: space-between;
+    list-style: none;
+    padding: 10px;
+    margin: 0px 560px 0px 530px;}
+
+h1{font-size: 35px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+h3{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+#header{display: flex;
+    flex-direction: column;
+    align-items: center;}
+
+.texto{display: flex;
+    width: 20%;
+    backgroud-color: pink;
+    font-family: cursive;
+    color: rgb(184, 184, 184);
+    text-align: center;
+}
+
+.imagens{display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 30px 300px;
+    gap: 85px;
+}
+
+.linha{width: 2%;}
